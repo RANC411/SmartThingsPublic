@@ -20,7 +20,7 @@ definition(
     namespace: "smartthings",
     author: "SmartThings",
     description: "Turn your lights on when the SmartApp is tapped or activated.",
-    category: "Convenience",
+    category: "My Apps",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Meta/light_outlet.png",
     iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Meta/light_outlet@2x.png"
 )
